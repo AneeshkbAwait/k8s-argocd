@@ -9,7 +9,7 @@ metadata:
 spec:
   containers:
   - name: "mywebapp-container"
-    image: "aneeshkbawaits/webapp:latest"
+    image: "aneeshkbawaits/webapp:v1"
     ports:
     - name: "http"
       containerPort: 80
